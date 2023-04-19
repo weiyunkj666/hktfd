@@ -8,7 +8,7 @@ export default {
 
         // 修改下方的example.com为自己的节点ip/域名
 
-        url.hostname="hkt.recloudnat.xyz:50090";
+        url.hostname="google.com";
 
         let new_request=new Request(url,request);
 
